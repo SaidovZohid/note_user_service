@@ -1,0 +1,3 @@
+[submodule "note_protos"]
+	path = note_protos
+	url = git@github.com:SaidovZohid/note_protos.git
